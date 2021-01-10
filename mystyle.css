@@ -30,7 +30,7 @@ img:hover {
 
 /* Add a black background color to the top navigation */
 .topnav {
-	background-color: #333;
+	background-color: solid gray; /*#333*/
 	overflow: hidden;
 	border: 1px solid gray;
 }
