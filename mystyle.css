@@ -6,9 +6,9 @@ h1 {
 body {
         text-indent: 50px;
         text-align: left;
-        letter-spacing: 1px;
-        /*font: verdana;*/
-	font-family: "Lucida Console", verdana;
+        /*letter-spacing: 1px;
+        font: verdana;*/
+	font-family: arial, verdana;
         padding: 8px;
 
 }
