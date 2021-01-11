@@ -6,9 +6,8 @@ h1 {
 body {
         text-indent: 50px;
         text-align: left;
-        /*letter-spacing: 1px;
-        font: verdana;*/
-	font-family: arial, verdana;
+        font: 14pt serif;
+	margin: 16pt;
         padding: 8px;
 
 }
