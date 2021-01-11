@@ -5,11 +5,11 @@ h1 {
 }
 body {
         text-indent: 50px;
-        text-align: justify;
+        text-align: left;
         letter-spacing: 1px;
         font: verdana;
         padding: 8px;
-				
+
 }
 img {
         border-radius: 8px;
