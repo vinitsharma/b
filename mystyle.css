@@ -7,12 +7,13 @@ body {
         text-indent: 50px;
         text-align: left;
         letter-spacing: 1px;
-        font: verdana;
+        /*font: verdana;*/
+	font-family: "Lucida Console", verdana;
         padding: 8px;
 
 }
 p {
-				text-align: justify;
+	text-align: justify;
 }
 img {
         border-radius: 8px;
