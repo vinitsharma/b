@@ -1,18 +1,19 @@
 h1 {
-	text-align: center;
-        text-transform: uppercase;
-        /* color: #4CAF50; */
+	text-align: left;
 }
 body {
         text-indent: 50px;
         text-align: left;
         letter-spacing: 1px;
-        font: verdana;
+        font: serif;
         padding: 8px;
-
+				line-height: 1.4;
 }
 p {
 				text-align: justify;
+}
+body a:hover, h1 a:hover, h2 a:hover, h3 a:hover {
+  color: #444444;
 }
 img {
         border-radius: 8px;
@@ -43,9 +44,9 @@ img:hover {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 10px 5px;
+  padding: 5px 5px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 12px;
 }
 
 /* Change the color of links on hover */
